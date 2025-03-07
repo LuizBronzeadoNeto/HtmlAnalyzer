@@ -20,8 +20,7 @@ This project is an HTML analyzer designed to extract the text found at the deepe
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/LuizBronzeadoNeto/HtmlAnalyzer.git
    ```
 2. Compile the Java code:
    ```sh
