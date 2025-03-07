@@ -32,7 +32,7 @@ This project is an HTML analyzer designed to extract the text found at the deepe
 To run the HTML analyzer, use the following command:
 
 ```sh
-java HtmlAnalyzer <URL>
+java HtmlAnalyzer URL
 ```
 
 ### Example
