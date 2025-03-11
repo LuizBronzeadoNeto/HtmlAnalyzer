@@ -9,7 +9,7 @@ This project is an HTML analyzer designed to extract the text found at the deepe
   - Malformed HTML
   - Unclosed tags
   - Deeply nested structures
-- Outputs the deepest-level text found in the provided HTML content.
+- Outputs the deepest-level text found in the provided HTML content. In cases where there are more than one text of same depth, outputs the first text.
 
 ## Requirements
 
