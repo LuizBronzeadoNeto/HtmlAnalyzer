@@ -14,7 +14,6 @@ This project is an HTML analyzer designed to extract the text found at the deepe
 ## Requirements
 
 - **Java 17** or higher
-- **Internet connection** (for fetching HTML from URLs)
 
 ## Installation
 
